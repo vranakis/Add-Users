@@ -1,0 +1,10 @@
+.user-item{
+    background-color: rgb(18, 86, 86);
+    color: rgb(255, 255, 255);
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    width: 30%;
+    padding: 10px;
+    margin: auto;
+}
